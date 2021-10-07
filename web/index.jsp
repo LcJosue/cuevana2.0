@@ -17,7 +17,7 @@
      
   <div class="row">
       <div class="col-8">
-          <h1>Bienvenido a GLAUDEM</h1>
+          <h1>Bienvenido a CUEVANA</h1>
           <p>
       Encuentra todo lo que buscas en un solo lugar. Bienvendio a GLAUDEM STORE, lideres en moda. Podrás encontrar una amplia variedad de productos y marcas importadas.
       </p>
