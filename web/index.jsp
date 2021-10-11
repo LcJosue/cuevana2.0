@@ -12,16 +12,11 @@
 
     <body>
         <jsp:include page="view/components/menuexterno.jsp"/>
-        <img src="assets/img/banner2.jpg" class="img-fluid" width="100%" alt="Responsive image">
+        <img src="assets/img/movie.jpg" class="img-fluid" width="100%" alt="Responsive image">
         <div class="container">
      
   <div class="row">
-      <div class="col-8">
-          <h1>Bienvenido a CUEVANA</h1>
-          <p>
-      Encuentra todo lo que buscas en un solo lugar. Bienvendio a GLAUDEM STORE, lideres en moda. Podrás encontrar una amplia variedad de productos y marcas importadas.
-      </p>
-      </div>
+      <div class="col-4"></div>
     <div class="col-4" id="formlogin">
         <h1>Iniciar Sesion</h1>
         <form action="login" method="POST">
