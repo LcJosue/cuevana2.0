@@ -12,7 +12,7 @@
 
     <body>
         <jsp:include page="view/components/menuexterno.jsp"/>  
-        <img src="assets/img/banner2.jpg" class="img-fluid" width="100%" alt="Responsive image">
+        <img src="assets/img/movie.jpg" class="img-fluid" width="100%" alt="Responsive image">
         <div class="container">
      
   <div class="row">
@@ -22,7 +22,7 @@
   <div class="card-body">
     <h5 class="card-title">!LO SENTIMOS, PERO LOS DATOS INGRESADOS SON INCORRECTOS!</h5>
     <p class="card-text">Por favor, revise sus datos de inicio de sesion. Posiblemente haya ingresado su email o password de forma incorrecta. Vuelva a intentar...</p>
-    <a href="login?accion=salir" class="btn btn-primary">Regresar al inicio</a>
+    <a href="login?accion=salir" class="btn btn-dark">Regresar al inicio</a>
   </div>
 </div>
           

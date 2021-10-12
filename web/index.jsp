@@ -30,8 +30,8 @@
     <input type="password" class="form-control" name="pass" id="pass">
   </div>
  
-   <input name="accion" value="Aceptar" type="submit" id="accion" class="btn btn-danger btn-block" required>
-  <button type="submit" class="btn btn-primary btn-block">Registrarme</button>
+   <input name="accion" value="Aceptar" type="submit" id="accion" class="btn btn-warning btn-block" required>
+  <button type="submit" class="btn btn-dark btn-block">Registrarme</button>
 </form>
     </div>
   </div>
